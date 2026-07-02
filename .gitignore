@@ -1,0 +1,21 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Spyder IDE / IPython
+.spyderproject
+.spyproject
+.spyderworkspace
+*.spydata
+.ipynb_checkpoints/
+
+# D-Wave Ocean SDK caches
+.dwave/
