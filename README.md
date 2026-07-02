@@ -27,7 +27,7 @@ O projeto conta com ferramentas analíticas visuais focadas em entender a teoria
 1. **Grade Otimizada:** Um Heatmap claro com a escala gerada.
 2. **Paisagem de Energia:** Um gráfico comparativo elucidando as dinâmicas de tunelamento. Mostramos o contraste entre um algoritmo de minimização clássica caindo na armadilha de um **Mínimo Local** e o uso do **Tunelamento Quântico** (Quantum Tunneling) para perfurar a barreira de energia direto até o **Mínimo Global**.
 
-![Heatmap de Alocação Ótima](assets/heatmap.png)  
+![Heatmap de Alocação Ótima](assets/grafico1_novo.png)  
 *(Exemplo visual da Alocação final, a cor não importa, o peso é o professor)*
 
 ![Tunelamento x Salto Térmico](assets/energy_landscape.png)  
