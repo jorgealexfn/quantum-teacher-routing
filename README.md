@@ -33,14 +33,6 @@ O projeto conta com ferramentas analíticas visuais focadas em entender a teoria
 ![Tunelamento x Salto Térmico](assets/energy_landscape.png)  
 *(Paisagem de Energia de um Hamiltoniano e suas restrições)*
 
-## ⚠️ Dilema do Ótimo Matemático (Business Warning)
-
-**Análise de Ociosidade:** 
-Se ao testar o algoritmo você notar que alguns professores ficaram sem turmas, atenção: **Isso não é um bug.** 
-O Mínimo Global (a solução matemática perfeita) da nossa função prioriza unicamente cortar distâncias. O sistema sacrifica o balanço da carga horária para poupar transporte. 
-
-**Próximos Passos (Trabalhos Futuros):** Para evoluir o modelo de *Toy Problem* para uma ferramenta de RH completa, deverão ser introduzidas **Slack Variables (Variáveis de Folga)**, criando uma restrição rígida de Carga Horária Mínima Obrigatória.
-
 ## 🚀 Como Executar
 
 1. Clone este repositório para o seu ambiente local:
